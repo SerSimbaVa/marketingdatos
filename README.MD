@@ -34,14 +34,6 @@ python main.py
    - Usuarios ordenados por ciudad
    - Cantidad de posts por usuario
 
-## Aplicación
 
-Este flujo simula cómo se integrarían datos reales desde plataformas como Meta Ads o TikTok. La automatización permite alimentar dashboards de forma confiable, eliminando errores manuales y mejorando la velocidad de análisis para equipos de marketing.
 
-##  Seguridad
 
-En una implementación real, las claves de API se gestionarían con variables de entorno o servicios como AWS Secrets Manager.
-
----
-
-Creado como prueba técnica para integrar datos en procesos de análisis de marketing.
