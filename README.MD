@@ -2,7 +2,7 @@
 
 Este proyecto simula la extracción, procesamiento y almacenamiento de métricas clave desde plataformas de medios utilizando una API pública como placeholder.
 
-## 🛠 Estructura del Proyecto
+## Estructura del Proyecto
 
 ```
 ├── extractor.py          # Obtiene y guarda los datos de usuarios y posts
@@ -14,7 +14,7 @@ Este proyecto simula la extracción, procesamiento y almacenamiento de métricas
 └── README.md
 ```
 
-## ⚙️ Requisitos
+## ⚙Requisitos
 
 Instalar dependencias con:
 
@@ -22,7 +22,7 @@ Instalar dependencias con:
 pip install -r requirements.txt
 ```
 
-## 🚀 Cómo usar
+##  Cómo usar
 
 1. Ejecutar el flujo completo:
 
@@ -34,11 +34,11 @@ python main.py
    - Usuarios ordenados por ciudad
    - Cantidad de posts por usuario
 
-## 📊 Aplicación
+## Aplicación
 
 Este flujo simula cómo se integrarían datos reales desde plataformas como Meta Ads o TikTok. La automatización permite alimentar dashboards de forma confiable, eliminando errores manuales y mejorando la velocidad de análisis para equipos de marketing.
 
-## 🔐 Seguridad
+##  Seguridad
 
 En una implementación real, las claves de API se gestionarían con variables de entorno o servicios como AWS Secrets Manager.
 
