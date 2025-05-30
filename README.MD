@@ -14,7 +14,7 @@ Este proyecto simula la extracción, procesamiento y almacenamiento de métricas
 └── README.md
 ```
 
-## ⚙Requisitos
+## Requisitos
 
 Instalar dependencias con:
 
